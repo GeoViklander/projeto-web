@@ -25,9 +25,6 @@ git clone (url do repositorio)
 Criar um arquivo 
 touch (nome do arquivo ex: index.html)
 
-Add arquivo no git
-git add (nome do arquivo ex: index.html) ou git add . (o ponto serve para adc
-todos os arquivos / ele coloca os arquivo no stage
 
 Tira do stage
 git rm --cached <file>
@@ -41,7 +38,10 @@ rm (remove) (nome do arquivo ex: ola)
 Remover pasta
 rm -R (nome da pasta ex: teste)
 
-
+Add arquivo no git
+git add (nome do arquivo ex: index.html) ou git add . (o ponto serve para adc
+todos os arquivos / ele coloca os arquivo no stage
+git 
     REGISTRAR  
 git commit    -m (falar pro git que a proxima coisa é a mensagem do commit
 
