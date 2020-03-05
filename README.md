@@ -1,22 +1,31 @@
-Aprendendo GIT 
+# Aprendendo GIT 
 
-Vendo o diretorio
+### Vendo o diretorio
+``` bash
 ls
+```
 
-Voltar para home 
+### Voltar para home 
+``` bash
 Cd ~
+```
 
-Voltar uma pasta
+### Voltar uma pasta
+``` bash
 cd ..
-
-Achar Desktop
+```
+### Achar Desktop
+``` bash
 cd destkop
+```
 
-Criar pasta
+### Criar pasta
 mkdir  (aqui vai o nome da pasta ex: projeto-web)
 
-Inciar o git dentro da pasta
+### Inciar o git dentro da pasta
+``` bash
 git init 
+```
 
 Caso o projeto ja exista no github ou repositorio remoto basta 
 dar esse comando 
