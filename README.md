@@ -74,5 +74,17 @@ git push origin master
 #### Mudar o repositorio para outro
 git remote set-url origin https://github.com/GeoViklander/Udemy.git
 
+#### Historico 
+git log
+
+#### criar branch
+git pull origin (nome-branch)
+
+### excluir a branch
+git branch -d ola
+
+### voltar pra master
+git checkout master
+
 
 
