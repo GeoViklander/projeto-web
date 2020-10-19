@@ -119,7 +119,7 @@ git log
 
 #### criar branch 
 ``` bash
-git pull origin (nome-branch)
+git checkout -b "nome-branch"
 ```
 Sempre que estiver trabalhando em um projeto que já está em produção, é
 importante ao adicionar uma nova funcionalidade ou corrigir um bug sempre criar uma branch
